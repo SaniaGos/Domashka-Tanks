@@ -1,0 +1,10 @@
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\bin\Debug\Domashka_sharp.exe.config
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\bin\Debug\Domashka_sharp.exe
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\bin\Debug\Domashka_sharp.pdb
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\obj\Debug\Domashka_sharp.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\obj\Debug\Domashka_sharp.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\obj\Debug\Domashka_sharp.exe
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\obj\Debug\Domashka_sharp.pdb
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\bin\Debug\MyClassLib.dll
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\bin\Debug\MyClassLib.pdb
+C:\Users\SaniaGos\source\repos\Domashka_sharp\Domashka_sharp\obj\Debug\Domashka_sharp.csproj.CopyComplete

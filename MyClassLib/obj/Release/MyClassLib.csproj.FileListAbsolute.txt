@@ -1,0 +1,5 @@
+C:\Users\SaniaGos\source\repos\Domashka_sharp\MyClassLib\bin\Release\MyClassLib.dll
+C:\Users\SaniaGos\source\repos\Domashka_sharp\MyClassLib\bin\Release\MyClassLib.pdb
+C:\Users\SaniaGos\source\repos\Domashka_sharp\MyClassLib\obj\Release\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Domashka_sharp\MyClassLib\obj\Release\MyClassLib.dll
+C:\Users\SaniaGos\source\repos\Domashka_sharp\MyClassLib\obj\Release\MyClassLib.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domashka_sharp", "Domashka_sharp\Domashka_sharp.csproj", "{C3C2ADFF-3126-4669-BC32-BECE11B32DB0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9219BFF4-A2B3-4034-B079-7FC794A03CB1} = {9219BFF4-A2B3-4034-B079-7FC794A03CB1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{9219BFF4-A2B3-4034-B079-7FC794A03CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C2ADFF-3126-4669-BC32-BECE11B32DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C2ADFF-3126-4669-BC32-BECE11B32DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C2ADFF-3126-4669-BC32-BECE11B32DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C2ADFF-3126-4669-BC32-BECE11B32DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9219BFF4-A2B3-4034-B079-7FC794A03CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9219BFF4-A2B3-4034-B079-7FC794A03CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9219BFF4-A2B3-4034-B079-7FC794A03CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9219BFF4-A2B3-4034-B079-7FC794A03CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EF8063-1239-4F28-828B-F7DA9CEF9C9B}
+	EndGlobalSection
+EndGlobal
